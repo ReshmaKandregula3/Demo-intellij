@@ -51,6 +51,7 @@ public class Elements {
     }
     /*  ********************************************************************************************************************************  */
 
+        /* checkbox */
     public void Checkbox() throws InterruptedException {
 //        driver.findElement(By.xpath("(//div[@class='header-wrapper'])[1]")).click();
         driver.findElement(By.xpath("(//li[@id='item-1'])[1]")).click();
